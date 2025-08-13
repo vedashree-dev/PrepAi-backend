@@ -1,0 +1,21 @@
+[
+  {
+    "title": "Chem Quiz Ch4",
+    "paper": [
+      {
+        "topic": "Chemical Reactions",
+        "difficulty": "Easy",
+        "questions": [
+          {
+            "type": "MCQ",
+            "question": "What is H2O?",
+            "marks": 1,
+            "answer": "Water"
+          }
+        ]
+      }
+    ],
+    "format": "pdf",
+    "include_answer_key": true
+  }
+]
